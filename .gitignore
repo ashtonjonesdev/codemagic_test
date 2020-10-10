@@ -42,3 +42,7 @@ app.*.map.json
 
 # Signing and Configuration related
 signining_and_configuration
+android/key.properties
+android/app/codemagictest.jks
+*.jks
+key*.properties
